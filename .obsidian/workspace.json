@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "35afd1a67055a3b2",
+        "id": "8fd1e3a04f5f7f60",
         "type": "tabs",
         "children": [
           {
-            "id": "c5b46bd0bb87ab70",
+            "id": "93e264cba06eb46a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Manuel's note 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Manuel's note 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Manuel's note 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Manuel's note 1.md"
+              }
             }
           }
         ]
@@ -138,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5b46bd0bb87ab70",
+  "active": "93e264cba06eb46a",
   "lastOpenFiles": [
     "Manuel's note 1.md",
-    "manuel_things/Manuel's thing.md",
     "Manuel's note 2.md",
+    "manuel_things/Manuel's thing.md",
     "Manuel's note 3.md",
     "manuel_things"
   ]
