@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "53c472025b81b63a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8e75ff9661806cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb14dca1c15af5fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "manuel_things/Manuel's thing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61a123a2ce91bd6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0abdcc58bdb4c76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "316551f364eb7bc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eba93f858726feae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c99b582cea7702a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dff9d2f4c1f0f3d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c870142e4cf32d27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c82e16f242e445a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "manuel_things/Manuel's thing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c1ebe1ef1be4dcf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "manuel_things/Manuel's thing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "644d21b4918fbcbf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "30a916a32e0b1ca0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "manuel_things/Manuel's thing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "316551f364eb7bc7",
+  "lastOpenFiles": [
+    "Manuel's note 1.md",
+    "Manuel's note 2.md",
+    "Manuel's note 3.md",
+    "manuel_things/Manuel's thing.md",
+    "manuel_things"
+  ]
+}
